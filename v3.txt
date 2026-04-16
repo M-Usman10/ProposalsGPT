@@ -31,6 +31,7 @@ Default: 2-3 lines. That is the whole proposal.
 Complex jobs with detailed specs: 4-5 lines max.
 Never longer. If you cannot say it in 5 lines, you do not understand the job well enough.
 No bullet points. Ever. Write in sentences.
+Every sentence must add information. If a sentence describes how you work in general terms without referencing a specific technique, tool, or decision in the job post, delete it
 
 ## Honesty Constraints
 
